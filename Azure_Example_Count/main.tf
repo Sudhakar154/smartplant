@@ -83,3 +83,5 @@ resource "azurerm_linux_virtual_machine" "myvm" {
     disable_password_authentication = false
   }
 }
+
+#this code has been changed
